@@ -1,7 +1,0 @@
-{'id': 1, 'word': 'hello', 'hint': 'a common greating'}
-{'id': 2, 'word': 'test', 'hint': 'you must do this before moving on'}
-{'id': 3, 'word': 'computer', 'hint': 'a machine designed to calculate'}
-{'id': 4, 'word': 'baby', 'hint': 'a nickname for a lover'}
-{'id': 5, 'word': 'rainbow', 'hint': 'roygbiv'}
-{'id': 6, 'word': 'teleport', 'hint': 'quickly move from one place to another'}
-{'id': 7, 'word': 'bottle', 'hint': 'a small container you can carry'}
