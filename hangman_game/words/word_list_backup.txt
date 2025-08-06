@@ -1,0 +1,6 @@
+{'word': 'hello', 'hint': 'a common greating'}
+{'word': 'test', 'hint': 'you must do this before moving on'}
+{'word': 'computer', 'hint': 'a machine designed to calculate'}
+{'word': 'baby', 'hint': 'a nickname for a lover'}
+{'word': 'rainbow', 'hint': 'roygbiv'}
+{'word': 'teleport', 'hint': 'quickly move from one place to another'}
