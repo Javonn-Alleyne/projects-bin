@@ -1,0 +1,20 @@
+{'id': 1, 'word': 'hello', 'hint': 'a common greating'}
+{'id': 2, 'word': 'test', 'hint': 'you must do this before moving on'}
+{'id': 3, 'word': 'computer', 'hint': 'a machine designed to calculate'}
+{'id': 4, 'word': 'baby', 'hint': 'a nickname for a lover'}
+{'id': 5, 'word': 'rainbow', 'hint': 'roygbiv'}
+{'id': 6, 'word': 'teleport', 'hint': 'quickly move from one place to another'}
+{'id': 7, 'word': 'bottle', 'hint': 'a small container you can carry'}
+{'id': 8, 'word': 'technology', 'hint': 'it never stops, it always changes'}
+{'id': 9, 'word': 'basketball', 'hint': 'it is orange and round'}
+{'id': 10, 'word': 'swim', 'hint': 'move in water'}
+{'id': 11, 'word': 'watch', 'hint': 'to tell the time'}
+{'id': 12, 'word': 'harddrive', 'hint': 'a device that stores data'}
+{'id': 13, 'word': 'keyboard', 'hint': 'keys go click clack'}
+{'id': 14, 'word': 'phone', 'hint': 'get a call and you answer'}
+{'id': 15, 'word': 'bag', 'hint': 'can carry anything with you'}
+{'id': 16, 'word': 'chair', 'hint': 'rest after a long walk'}
+{'id': 17, 'word': 'light', 'hint': 'it is everywhere, without it there is darkness'}
+{'id': 18, 'word': 'door', 'hint': 'swing it open'}
+{'id': 19, 'word': 'pencil', 'hint': 'blacklead'}
+{'id': 20, 'word': 'notepad', 'hint': 'put down all notes, thoughts and ideas'}

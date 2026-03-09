@@ -1,3 +1,4 @@
 {'password': 'qwerty', 'label': 'basic'}
 {'password': 'mydogatemyhomework', 'label': 'lie'}
 {'password': 'lickthestampandsendit', 'label': 'quote'}
+{'password': 'test', 'label': 'test password'}

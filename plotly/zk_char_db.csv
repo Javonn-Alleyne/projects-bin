@@ -1,0 +1,81 @@
+ID,FName,LName,Alias,Gender,D.O.B,Age,Story,Content Rating,Timeline,Planet,Kin,Origin,Organisation,OiD,Status,Class,GEN,Power,Role,STRAG,STR,SPD,AGL,DUR,END,INT,ZCN,ZPO,STA,PER,VRT,ADP,BTOT,HP,ATT,DEF,RES,FCS,ACC,ZCP,HTOT,FTOT,TOT
+1,Quinn,Luminae,NA,M,1000,18,Zealkin,G,Main,Orris,Orrisian,Solaris,Misfits,MFT,Active,Combat,E,Light,Striker,Sparing,4,8,7,4,2,2,4,5,8,4,3,3,54,112,168,72,120,120,80,3520,672,726,4300
+2,Jamie,Mazzir,NA,F,1004,14,Zealkin,G,Main,Orris,Orrisian,Unkonwn,Misfits,MFT,Active,Utility,N,Void,Scout,NA,1,1,1,1,1,1,2,1,1,1,1,1,13,24,40,24,24,24,32,880,168,181,1074
+3,Miranda,Crossgrove,NA,F,989,29,Zealkin,G,Main,Orris,Orrisian,Acris,Misfits,MFT,Active,Combat,G,Mind,Stinger,Range,2,5,7,2,5,9,9,9,6,9,7,7,77,104,200,112,120,176,216,4160,928,1005,5242
+4,Zyla,Bezznet,Sky,F,998,20,Zealkin,G,Main,Orris,Orrisian,Zapkeptzis,Misfits,MFT,Active,Combat,E,Electricity,Stinger,Range,1,7,7,2,2,7,2,5,3,5,4,4,49,56,120,64,72,96,112,2400,520,569,3018
+5,Ignius,Bellto,NA,M,996,22,Zealkin,G,Main,Orris,Orrisian,Mistolis,Misfits,MFT,Active,Combat,E,Water,Block,Sparing,5,1,1,5,5,5,5,2,5,5,7,4,50,120,104,112,112,112,120,3360,680,730,4140
+6,Zahara,Vanta,Raven,F,998,20,Zealkin,G,Main,Orris,Orrisian,Solaris,Inner Circle,IRC,Active,Combat,E,Shadow,Flank,Tactics,2,9,8,2,4,9,9,5,7,8,8,8,79,104,200,112,136,184,208,4160,944,1023,5262
+7,Zwyrus,Velrun,NA,M,973,45,Zealkin,G,Main,Orris,Orrisian,Veyno,Inner Circle,IRC,Active,Utility,N,Medsmith,Catalyst,NA,1,1,1,1,1,9,9,1,1,1,9,1,36,24,96,24,24,24,152,1440,344,380,1856
+8,Prim,Almanmandes,NA,F,996,22,Zealkin,G,Main,Orris,Orrisian,Allowmarbander,Inner Circle,IRC,Active,Combat,N,Foodsmith,Summoner,Sparing,2,5,5,5,5,6,6,6,5,7,6,4,62,120,152,112,112,128,152,3840,776,838,4740
+9,Mezza,Zentis,NA,M,1000,18,Zealkin,G,Main,Orris,Orrisian,Zapkeptzis,Inner Circle,IRC,Active,Combat,E,Energy Leech,Catalyst,Sparing,2,6,6,2,2,7,7,6,7,9,6,7,67,88,168,88,128,184,184,3440,840,907,4414
+10,Sorvi,Keldo,3,M,995,23,Zealkin,G,Main,Orris,Orrisian,Veyno,Inner Circle,IRC,Active,Combat,G,Papersmith,Block,Sparing,5,1,1,7,5,1,2,2,6,6,2,6,44,144,80,144,152,144,72,3680,736,780,4504
+11,Fency,Madalow,NA,F,987,31,Zealkin,G,Main,Orris,Orrisian,Veyno,Misfits,MFT,Retired,Combat,N,Weaponsmith(gun),Stinger,Range,4,5,5,3,3,8,9,8,6,7,2,2,62,96,208,64,88,120,192,3680,768,830,4572
+12,Klair,Tastan,NA,F,997,21,Zealkin,G,Main,Orris,Orrisian,Zapkeptzis,Misfits,MFT,Active,Utility,N,Body,Summoner,Group,1,1,2,1,1,9,8,1,1,2,5,5,37,24,88,56,56,64,152,1680,440,477,2194
+13,NA,NA,Silloette,F,1006,12,Zealkin,G,Main,Orris,Orrisian,Unkonwn,None,NA,Active,Combat,N,Puppetry,Summoner,Group,1,1,1,2,9,2,9,5,1,3,7,1,42,96,128,96,32,40,112,3200,504,546,3788
+14,NA,NA,Therapist,F,975,43,Zealkin,G,Main,Orris,Orrisian,Alagant,Lady Belles,LDB,Active,Service,G,Senory Calming,Catalyst,NA,1,1,1,1,1,9,9,0,0,0,0,0,23,16,88,16,8,0,144,1200,272,295,1518
+15,Lilly,Sanders,Princess Sparkle,F,996,22,Zealkin,G,Main,Orris,Orrisian,Acris,Wicked Witches of the West,WWW,Active,Service,N,Weaponsmith(blade),Striker,Sparing,1,4,4,2,2,4,4,3,1,2,1,2,30,40,96,48,40,40,80,1840,344,374,2244
+16,Jarno,NA,NA,M,998,20,Zealkin,G,Main,Orris,Orrisian,Sera,Inner Circle,NA,Active,Combat,N,Muscle Aplicator,Striker,Sparing,5,4,4,6,5,2,2,5,6,4,3,3,49,136,128,112,120,104,64,3760,664,713,4522
+17,Minn,Luminae,Starling,F,975,43,Zealkin,G,Main,Orris,Orrisian,Solaris,Phantom Arsenal,PAL,Active,Combat,E,Light,Striker,Agility,2,9,9,7,8,9,9,7,8,9,9,8,94,184,216,184,184,200,216,5840,1184,1278,7212
+18,Vesper,Lynn,NA,M,973,45,Zealkin,G,Main,Orris,Orrisian,Veyno,Phantom Arsenal,PAL,Active,Combat,N,Carbonsmith,Striker,Sparing,9,8,8,9,9,9,7,8,8,8,9,9,101,208,256,216,208,200,192,6800,1280,1381,8282
+19,Kryssa,NA,NA,F,952,66,Zealkin,G,Main,Orris,Orrisian,Altis,Convenant,COV,Active,Utility,N,Medsmith,Catalyst,NA,1,1,1,1,1,9,9,1,1,1,9,1,36,24,96,24,24,24,152,1440,344,380,1856
+20,Ezra,NA,NA,F,966,52,Zealkin,G,Main,Orris,Orrisian,Veyno,Nova Project,NP,Active,Combat,G,Unique,Safety,Tactics,6,9,9,7,7,7,9,8,8,7,9,8,94,176,256,176,184,184,184,6080,1160,1254,7428
+21,Clyne,NA,Professor,M,995,23,Zealkin,G,Main,Orris,Orrisian,Sark,Ghost Class,GC,Active,Utility,N,Medsmith,Catalyst,NA,1,1,1,1,1,9,9,1,1,1,9,1,36,24,96,24,24,24,152,1440,344,380,1856
+22,Aria,Chan,Ghost,F,999,19,Zealkin,G,Fold-War,Earth,OrrLing,China,Specter,SP,Active,Combat,N,Phase Shift,Flank,Agility,1,7,7,1,1,7,7,6,3,5,5,6,56,40,168,64,80,112,152,2720,616,672,3448
+23,Marcus,Torres,Volt,M,998,20,Zealkin,G,Fold-War,Earth,OrrLing,Mexico,Specter,SP,Active,Combat,E,Electricity,Block,Tactics,1,8,5,5,6,5,3,5,5,8,6,5,62,128,136,128,120,144,128,3920,784,846,4828
+24,Zoe,Okafor,Echo,F,1000,18,Zealkin,G,Fold-War,Earth,OrrLing,America,Specter,SP,Active,Combat,E,Sound,Disruptor,Range,2,5,5,2,2,3,6,6,5,9,6,4,55,72,152,64,88,144,144,2880,664,719,3654
+25,Damien,Nakamura,Shift,M,997,21,Zealkin,G,Fold-War,Earth,OrrLing,Japan,Specter,SP,Active,Utility,N,Medsmith,Catalyst,NA,1,1,1,1,1,9,9,1,1,1,9,1,36,24,96,24,24,24,152,1440,344,380,1856
+26,Eliza,NA,Mindscape,F,978,40,Zealkin,G,Main,Orris,Orrisian,Acris,Enigma,EGM,Active,Combat,G,Dreamwalker,Summoner,Tactics,1,7,7,3,3,9,9,2,9,9,8,4,71,120,152,80,128,176,216,3520,872,943,4534
+27,Kari,Foten,Mirage (alita clone),F,998,20,Zealkin,G,Main,Orris,Orrisian,Solaris,Replicant Choir,RPC,Active,NA,E,Light,Catalyst,NA,1,1,1,1,1,7,7,2,1,7,1,1,31,24,88,24,24,72,168,1360,400,431,1822
+28,Vivian,Blackwood,Siphon,F,999,19,Zealkin,G,Fold-War,Earth,OrrLing,Canada,Specter,SP,Active,Utility,E,Energy Leech,Catalyst,Range,5,4,5,2,2,8,6,6,3,9,9,9,68,56,168,104,112,168,184,3280,792,860,4208
+29,Glaz,NA,NA,M,994,24,Zealkin,G,Main,Orris,Orrisian,Acris,Enigma,EGM,Active,Combat,G,Adaptation,Block,Sparing,6,2,2,6,6,2,3,5,7,3,5,5,52,152,128,136,144,120,64,4160,744,796,5008
+30,Mozzi,Dunn,NA,M,993,25,Zealkin,G,Fold-War,Earth,OrrLing,Australia,Nova Concord,NVC,Active,Combat,G,Armour Plating,Block,Sparing,6,2,2,5,5,3,2,5,5,4,7,6,52,120,120,128,128,120,72,3680,688,740,4472
+31,Xill,NA,NA,M,990,28,Zealkin,G,Main,Orris,Orrisian,Charr-Mota,Ghost Class,GC,Active,Combat,E,Fire,Stinger,Range,5,5,5,5,5,5,5,5,5,5,5,5,60,120,160,120,120,120,120,4000,760,820,4880
+32,Vel,NA,NA,F,997,21,Zealkin,G,Main,Orris,Orrisian,Lumaris,Ghost Class,GC,Active,Utility,N,Telekinesis,Disruptor,Tactics,1,1,1,1,1,6,8,9,8,9,2,2,49,80,152,32,88,152,184,2640,688,737,3426
+33,Eshari,Kull,Vulture,F,974,45,Zealkin,G,Main,Orris,Orrisian,Solaris,The Flock,TFL,Active,Combat,E,Light,Stinger,Sparing,9,4,4,9,9,9,7,8,9,9,8,9,94,216,224,216,216,216,200,6560,1288,1382,8036
+34,Kara,Vynn,Heron,F,975,43,Zealkin,G,Main,Orris,Orrisian,Solaris,The Flock,TFL,Active,Combat,E,Light,Block,Sparing,9,9,9,8,8,9,9,9,9,8,8,8,103,200,288,192,200,200,208,6800,1288,1391,8294
+35,Alita,Varese,Kite,F,977,41,Zealkin,G,Main,Orris,Orrisian,Solaris,The Flock,TFL,Active,Combat,E,Light,Catalyst,Agility,2,9,9,7,7,9,9,8,8,9,9,9,95,176,224,184,192,208,216,5840,1200,1295,7230
+36,Elara,Foten,Zenith of Solaris,F,974,44,Zealkin,G,Main,Orris,Orrisian,Solaris,Replicant Choir,RPC,Active,NA,E,Light,NA,NA,1,2,2,3,3,9,5,4,4,3,3,3,42,80,96,72,80,80,136,2480,544,586,3108
+37,Genny,Ferris,The Animal,F,996,22,Zealkin,G,Main,Orris,Orrisian,Ozzet,Wicked Witches of the West,WWW,Active,Combat,N,Animalis Polymorph,Striker,Sparing,5,5,5,6,6,3,3,3,6,9,2,2,55,144,128,112,112,136,120,3840,752,807,4702
+38,,Mores,General Mores,M,972,46,Zealkin,G,Main,Orris,Orrisian,Charr-mota,Enigma,EGM,Active,Combat,N,Fire,Striker,Sparing,9,6,4,8,8,9,9,8,9,7,7,8,92,200,256,192,200,192,200,6480,1240,1332,7904
+39,Rezzi,NA,NA,F,1001,17,Zealkin,G,Main,Orris,Orrisian,Charr-mota,Wicked Witches of the West,WWW,Active,Combat,E,Fire,Stinger,Range,6,4,4,5,5,5,3,6,5,5,6,6,60,120,152,128,128,128,104,4000,760,820,4880
+40,Marley,NA,NA,F,1000,18,Zealkin,G,Main,Orris,Orrisian,Azion,Wicked Witches of the West,WWW,Active,Utility,G,Siren Call,Disruptor,Range,1,1,1,1,1,7,9,1,2,6,7,2,39,32,96,32,40,80,176,1600,456,495,2134
+41,NA,Maddison,The Madam,F,961,57,Zealkin,G,Main,Orris,Orrisian,Sera,Killers Crown Syndicate,KCS,Active,NA,NA,None,NA,NA,1,1,1,1,1,8,0,0,8,3,1,1,26,80,16,24,80,96,88,1200,384,410,1636
+42,Megan,NA,Queen Megan,F,973,45,Zealkin,G,Main,Orris,Orrisian,Qwasis,Screaming Queens,SCQ,Active,Service,E,Magma,Safety,Range,1,1,1,7,8,6,4,9,7,5,5,5,59,176,120,160,152,136,120,4560,864,923,5542
+43,Ceros,NA,NA,M,982,36,Zealkin,G,Main,Orris,Orrisian,Veyno,Seamless,SEM,Active,Combat,N,MindLinker,Disruptor,Tactics,2,4,2,6,6,9,9,9,7,9,6,6,75,152,192,144,152,176,216,4880,1032,1107,6062
+44,NA,NA,Darkstar,F,998,20,Zealkin,G,Main,Orris,Orrisian,Solaris,Replicant Choir,RPC,Active,Combat,E,Light,Striker,Agility,4,9,9,8,8,9,9,9,8,9,8,8,98,192,248,192,192,200,216,6320,1240,1338,7756
+45,Aiyako,Namikaze,NA,F,997,21,Zealkin,G,Fold-War,Earth,OrrLing,Japan,Nova Concord,NVC,Active,Combat,E,Wind,Flank,Agility,2,9,9,2,2,8,7,3,5,8,3,3,61,72,168,56,80,128,184,2960,688,749,3770
+46,Jakan,Mandalow,Doc,M,989,29,Zealkin,G,Main,Orris,Orrisian,Jint,Misfits,MFT,Retired,Service,N,Medsmith,Catalyst,NA,1,1,1,1,1,9,9,1,1,1,9,1,36,24,96,24,24,24,152,1440,344,380,1856
+47,Bridgitt,NA,Gidgit,F,1001,17,Zealkin,G,Fold-War,Earth,OrrLing,America,Nova Concord,NVC,Active,Combat,N,Weaponsmith(gun),Stinger,Range,2,2,1,2,2,6,4,9,3,2,2,1,36,56,136,40,48,48,96,2320,424,460,2816
+48,Dove,NA,NA,F,1000,18,Zealkin,G,Main,Orris,Orrisian,Sera,None,NA,Active,NA,NA,None,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,Klio,NA,NA,F,999,19,Zealkin,G,Main,Orris,Orrisian,Sera,None,NA,Active,NA,NA,None,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+50,NA,NA,Royal Steel,M,991,27,Zealkin,G,Fold-War,Earth,OrrLing,United Kingdom,Nova Concord,NVC,Active,Combat,N,Framewalker,Safety,Range,8,1,2,9,9,6,8,7,4,4,8,9,75,176,192,216,176,136,144,5840,1040,1115,7030
+51,Pyraa,Gupta,NA,F,998,20,Zealkin,G,Fold-War,Earth,OrrLing,India,Nova Concord,NVC,Active,Utility,E,Fire,Catalyst,NA,0,1,1,1,1,7,2,3,2,2,1,1,22,32,48,24,32,40,88,1040,264,286,1348
+52,NA,NA,NA,F,993,25,Zealkin,G,Main,Orris,Orrisian,Jisabbo,Seamless,SEM,Active,Combat,N,Zombizim,Flank,Tactics,8,1,1,9,9,3,3,3,4,4,5,5,55,176,120,184,144,104,80,4800,808,863,5718
+53,Alma,Venari,NA,F,965,53,Zealkin,G,Main,Orris,Orrisian,Zylin,Lady Belles,LDB,Retired,Combat,E,Wind,Safety,Agility,2,9,9,3,3,8,9,3,7,9,9,9,80,104,184,120,152,200,208,4080,968,1048,5208
+54,Elara,NA,NA,F,988,30,Zealkin,G,Main,Orris,Orrisian,Acris,Lady Belles,LDB,Active,Combat,G,Duplication,Summoner,Group,6,6,6,8,7,7,4,5,7,7,4,5,72,176,168,160,160,152,144,5040,960,1032,6144
+55,Varrona,NA,Kara clone,F,998,20,Zealkin,G,Main,Orris,Orrisian,Solaris,Replicant Choir,RPC,Unknown,Combat,E,Light,Striker,Agility,2,6,7,7,6,5,5,6,5,7,5,5,66,144,152,144,136,136,136,4400,848,914,5380
+56,Tane,NA,The Architect,M,963,55,Zealkin,G,Main,Orris,Orrisian,Ozzet,Convenant,COV,Active,Combat,N,Carbonsmith,Striker,Sparing,8,7,6,9,8,9,9,9,9,8,9,9,100,208,264,208,216,208,208,6800,1312,1412,8312
+57,Vera,Cross,Scalpel,F,976,42,Zealkin,G,Main,Orris,Orrisian,Ozzet,Convenant,COV,Active,Combat,N,Glasssmith,Striker,Agility,3,9,9,7,7,7,9,7,7,8,6,6,85,168,224,160,160,168,192,5520,1072,1157,6762
+58,Kris,Vale,Phantom,M,995,23,Zealkin,G,Main,Orris,Orrisian,Veyno,Convenant,COV,Active,Combat,G,Void,Flank,Agility,1,9,9,1,1,7,9,5,5,8,5,5,65,56,192,56,88,144,192,3040,728,793,3898
+59,Seren,Voss,Silk,F,997,21,Zealkin,G,Main,Orris,Orrisian,Yits,Convenant,COV,Active,Combat,G,Soul,Disruptor,Agility,2,7,7,2,2,6,5,5,5,8,7,7,63,72,152,88,112,160,152,3120,736,799,3982
+60,NA,NA,Agent 9,M,979,39,Zealkin,G,Main,Orris,Orrisian,Veyno,Convenant,COV,Active,Combat,N,Paintsmith,Stinger,Group,5,7,7,4,8,9,8,8,8,7,8,8,87,160,224,160,160,184,192,5440,1080,1167,6694
+61,Arden,Vale,NA,M,969,49,Zealkin,G,Main,Orris,Orrisian,Casjina,Convenant,COV,Active,Combat,N,Bloodsmith,Striker,Agility,7,8,7,6,6,7,7,9,7,8,8,9,89,152,248,168,176,192,176,5680,1112,1201,6970
+62,Valeen,NA,NA,F,910,68,Zealkin,G,Main,Orris,Orrisian,Solaris,Nova Project,NP,Active,Combat,E,Shadow,Scout,Tactics,4,7,7,6,8,8,7,8,8,7,7,7,84,176,208,168,168,176,176,5520,1072,1156,6760
+63,Syka,Ruun,NA,F,975,43,Zealkin,G,Main,Orris,Orrisian,Solaris,Nova Project,NP,Active,Combat,N,Chemicalsmith,Stinger,Range,3,7,6,7,6,7,7,7,7,8,8,8,81,160,192,168,176,184,176,5200,1056,1137,6418
+64,Spire,Hex,NA,M,967,51,Zealkin,G,Main,Orris,Orrisian,Solaris,Nova Project,NP,Active,Combat,G,Shadow,Safety,Group,6,5,5,8,8,9,9,8,9,9,9,9,94,200,224,200,208,216,216,6240,1264,1358,7692
+65,Aelon,NA,NA,M,998,20,Zealkin,G,Main,Orris,Orrisian,Veyno,Ghost Class,GC,Active,Combat,E,Orr,Flank,Agility,2,7,7,3,2,5,5,8,7,8,7,7,68,96,176,96,136,176,144,3680,824,892,4640
+66,Mira,NA,NA,F,999,19,Zealkin,G,Main,Orris,Orrisian,Veyno,Ghost Class,GC,Active,Combat,N,Hairsmith,Flank,Agility,1,5,5,2,2,5,6,9,8,7,5,8,63,96,168,96,144,184,144,3600,832,895,4558
+67,Taln,NA,NA,F,993,25,Zealkin,G,Main,Orris,Orrisian,Lumaris,Ghost Class,GC,Active,Utility,N,Foodsmith,Disruptor,Range,2,7,2,2,2,7,7,7,7,8,8,8,67,88,184,96,136,184,176,3680,864,931,4678
+68,Jex,Varna,NA,M,983,35,Zealkin,G,Main,Orris,Orrisian,Sokoros,Razor Ward,RW,Active,Combat,E,Orr,Striker,Sparing,9,6,7,8,8,8,7,9,8,7,7,8,92,192,248,192,192,184,176,6320,1184,1276,7688
+69,Eira,Jax,NA,F,998,20,Zealkin,G,Main,Orris,Orrisian,Veyno,Razor Ward,RW,Active,Combat,N,Papersmith,Striker,Agility,4,8,7,2,2,6,6,7,5,4,4,5,60,72,200,72,96,112,128,3440,680,740,4240
+70,Rita,NA,NA,F,997,21,Zealkin,G,Fold-War,Earth,OrrLing,Scotland,Nova Concord,NVC,Active,Combat,N,Waxsmith,Flank,Tactics,6,5,5,8,8,7,3,4,5,6,6,7,70,168,144,184,160,144,128,4960,928,998,6028
+71,Mors,NA,NA,M,987,31,Zealkin,G,Main,Orris,Orrisian,Veyno,Razor Ward,RW,Active,Combat,N,Paintsmith,Stinger,Agility,3,8,9,2,2,7,8,8,5,5,6,5,68,72,216,72,96,120,160,3600,736,804,4472
+72,NA,NA,NA,M,998,20,Zealkin,G,Main,Orris,Orrisian,Tinnit,Seamless,SEM,Active,Combat,N,Doppler Effect,Disruptor,Range,1,9,9,2,9,4,9,0,4,9,2,2,60,120,152,104,64,120,176,3760,736,796,4616
+73,NA,NA,NA,M,967,51,Zealkin,G,Main,Orris,Orrisian,Sark,Seamless,SEM,Active,NA,N,Time Displacement,Disruptor,Range,0,9,9,0,0,5,9,0,1,9,0,0,42,8,144,0,8,80,184,1520,424,466,2028
+74,NA,NA,Wicked,F,985,33,Zealkin,G,Main,Orris,Orrisian,Sera,Wicked Witches of the West,WWW,Active,Combat,NA,NA,Striker,Sparing,6,7,7,6,6,9,0,0,4,6,6,6,63,128,104,144,128,128,120,3760,752,815,4638
+75,Namori,NA,NA,M,991,27,Zealkin,G,Main,Orris,Orrisian,Ikoros,Sarlet Hearts,STH,Unknown,Combat,G,Void,Striker,Sparing,6,5,6,8,7,7,8,8,7,6,4,5,77,176,216,160,160,144,168,5520,1024,1101,6698
+76,Vezzna,Bezznet,NA,F,977,41,Zealkin,G,Main,Orris,Orrisian,Zapkeptzis,None,NA,Unknown,Service,E,Electricity,NA,NA,1,1,1,1,1,9,3,1,1,5,1,1,26,24,48,24,24,56,136,960,312,338,1324
+77,Zan,Bezznet,NA,M,974,44,Zealkin,G,Main,Orris,Orrisian,Zapkeptzis,None,NA,Unknown,Service,E,Electricity,Striker,NA,7,5,5,6,7,6,5,6,5,5,4,4,65,144,184,136,120,112,128,4640,824,889,5594
+78,Kisa,NA,NA,F,999,19,Zealkin,G,Main,Orris,Orrisian,Veyno,Phantom Arsenal,PAL,Active,Combat,N,Hairsmith,Flank,Sparing,5,6,8,3,3,5,5,2,4,4,6,7,58,80,144,104,112,120,112,3280,672,730,4068
+79,Lilly,None,NA,F,1018,18,Zealkin,G,Main,Orris,Orrisian,Sera,Inner Circle,IRC,Active,NA,NA,None,NA,NA,0,3,2,0,2,3,3,1,1,2,2,2,21,24,56,32,24,40,64,1120,240,261,1402
+80,NA,NA,The Judge,M,976,42,Zealkin,G,Main,Orris,Orrisian,Acris,Garrisons Grand,GRD,Active,Combat,G,Mind,Disruptor,Sparing,7,6,5,6,6,9,7,7,5,9,7,6,80,136,216,144,136,160,200,4960,992,1072,6112
