@@ -2,14 +2,11 @@ import plotly.express as px
 import pandas as pd
 import json
 
-df = pd.read_csv('zk_char_db.csv')
+df = pd.read_csv('generated_data.csv')
 
-fig = px.density_heatmap(
+fig = px.scatter(
     df, 
-    x="BTOT", 
-    y="HTOT",
-    nbinsx=10, 
-    nbinsy=10,
-    text_auto=True,
+    x="volumes_uploaded", 
+    y="images_master",
 )
 fig.show()

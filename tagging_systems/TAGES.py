@@ -1,5 +1,5 @@
-import unicodedata
-from typing import List
+# import unicodedata
+# from typing import List
 
 word = input("enter a word: ").upper()
 print(f"word: {word}")
